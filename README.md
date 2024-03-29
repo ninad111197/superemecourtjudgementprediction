@@ -38,7 +38,7 @@ The dataset contains 3304 cases from the Supreme Court of the United States from
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
+2. Raw Data is being kept [here](archive (5)\justice.csv) within this repo.
 
     *If using offline data mention that and how they may obtain the data from the froup)*
     
