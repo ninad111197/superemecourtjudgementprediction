@@ -52,5 +52,15 @@ The dataset contains 3304 cases from the Supreme Court of the United States from
 ## Featured Notebooks/Analysis/Deliverables
 * [Supreme Court Judgement Prediction](JudgementPrediction.ipynb)
 
+### Steps Involved While Building Model
 
 ![image](flowchart.png)
+
+### The provided code below is part of my project, where I've implemented a user-defined function to streamline text preprocessing tasks like removing punctuation, stopwords, and converting text to lowercase. Combining these steps into a single function enhances efficiency and facilitates reuse across the project.
+
+![image](preprocessed_code.png)
+
+
+### Pictorial Representation of Most occuring word 
+
+![image](wordcloud1.png)
