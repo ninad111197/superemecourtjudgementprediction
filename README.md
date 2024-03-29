@@ -1,7 +1,6 @@
 # SUPREME COURT JUDGEMENT PREDICTION
 
 
-#### -- Project Status: [Active, On-Hold, Completed]
 
 ## Project Intro/Objective
 The dataset contains 3304 cases from the Supreme Court of the United States from 1955 to 2021. Each case has the case's identifiers as well as the facts of the case and the decision outcome. Other related datasets rarely included the facts of the case which could prove to be helpful in natural language processing applications. One potential use case of this dataset is determining the outcome of a case using its facts.Target Variable: First Party Winner, if true means that the first party won!
