@@ -50,9 +50,7 @@ The dataset contains 3304 cases from the Supreme Court of the United States from
 5. Follow setup [instructions](Link to file)
 
 ## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
+* [Notebook/Markdown/Slide Deck Title](Capstone Project - 2 - Supreme Court Judgement Prediction  (1).ipynb)
 
 
 ## Contributing DSWG Members
